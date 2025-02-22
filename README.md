@@ -1,9 +1,9 @@
 <h2 align="center">Olá! Meu nome é Renan Oliveira 👋 🤓</h2>
 <p align="center">Sou desenvolvedor web com experiência em tecnologias como ruby on rails, vuejs, html, css, javascript, postgres, redis, sidekiq, git, github, docker, testes com rspec, TDD, metodologia ágil e ambiente azure devops.
-  Sou técnico pelo Instituto Metrópole Digital da UFRN em tecnologia da informação com ênfase em desenvolvimento web e estou cursando o bacharelado em Sistemas de informações. Tenho interesse em kubernetes, devOps e programação funcional.
+  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Uninter.
 </p>
 
-<p align="center">No meu tempo livre gosto de jogar, aprender algo novo, ir a restaurantes, sair com amigos ou viajar. Além disso, eu mantenho um blog, onde falo sobre tecnologia, programação e assuntos relacionados ao meu dia de trabalho e novos projetos que estou desenvolvendo.
+<p align="center">No meu tempo livre gosto de jogar, aprender algo novo, ir a restaurantes, sair com amigos ou viajar.
 </p>
 
 <p align="center">
